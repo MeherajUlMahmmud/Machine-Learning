@@ -1,2 +1,57 @@
 # Machine-Learning
- 
+
+## Plan
+
+-   [ ] Supervised Learning
+    -   [ ] Regression
+        -   [ ] Polynomial Regression
+        -   [ ] Ridge/Lasso Regression
+        -   [ ] Classification
+            -   [ ] Logistic Regression
+            -   [ ] Naive-bayes
+            -   [ ] K-NN
+            -   [ ] SVM
+            -   [ ] Decision Tree
+-   [ ] Unsupervised Learning
+    -   [ ] Clustering
+        -   [ ] Fuzzy C-Means
+        -   [ ] Mean Shift
+        -   [ ] K-Means
+        -   [ ] DBSCAN
+        -   [ ] Agglomerative
+    -   [ ] Association Rule Learning
+        -   [ ] FP Growth
+        -   [ ] Apriori
+        -   [ ] Euclat
+    -   [ ] Dimensionality Reduction
+        -   [ ] 1-SNE
+        -   [ ] PCA
+        -   [ ] LSA
+        -   [ ] SVD
+        -   [ ] LDA
+-   [ ] Reinforcement Learning
+    -   [ ] Q-Learning
+    -   [ ] DQN
+    -   [ ] SARSA
+    -   [ ] Genetic Algorithm
+    -   [ ] A3C
+-   [ ] Ensemble Learning
+    -   [ ] Stacking
+    -   [ ] Bagging
+        -   [ ] Random Forest
+    -   [ ] Boosting
+        -   [ ] XGBoost
+        -   [ ] LightGBM
+        -   [ ] CallBoost
+        -   [ ] AdaBoost
+-   [ ] Neural Network and Deep Learning
+    -   [ ] Convolutional Neural Network (CNN)
+        -   [ ] Deep Convolutional Neural Network (DCNN)
+    -   [ ] RNN
+        -   [ ] LSM
+        -   [ ] LSTM
+        -   [ ] GRU
+    -   [ ] GAN
+    -   [ ] Autoencoders
+        -   [ ] Seq2seq
+    -   [ ] Perceptrons
